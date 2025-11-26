@@ -1,0 +1,2 @@
+# algorand_purestake_ritual
+algorand_purestake_ritual
